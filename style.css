@@ -1,0 +1,64 @@
+.navbar-brand h2{
+    color: black;
+    font-size: 40px;
+    margin-left: 50px;
+}
+.navbar-brand span{
+    color: orangered;
+}
+.navbar-brand p{
+    margin-left: 15px;
+    margin-top: -6px;
+}
+ul{
+    margin-left: 760px;
+}
+ul>li>a{
+    font-weight: bold;
+    transition: 0.4s;
+}
+ul>li>a:hover{
+    text-decoration: underline;
+}
+.col-8{
+    margin-left: 40px;
+}
+#pasha{
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-image: url(./book-form-bg.png);
+}
+.main{
+    background-image: url(./z.jpg);
+}
+.navbar-light{
+    background-image: url(./z.jpg);
+}
+.zu{
+    width: 140px;
+    border: 1px solid black;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 24px;
+}
+.khan{
+    width: 330px;
+    height: 100%;
+    margin-left: 90px;
+  
+    
+    
+}
+.btn-dark:hover{
+    background-color: rgb(255, 123, 0);
+    color: black;
+}
+#zun{
+    margin-left: 50px;
+}
+#pas1{
+    height: 100%;
+    background-image: url(./footer-bg.png);
+    border: 1px solid black;
+}
